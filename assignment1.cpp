@@ -1,15 +1,4 @@
-//Q.1 Solution
-/*
-#include<iostream>
-#include<cmath>
-const float PI=3.14;
-void calculate(int &vala,int &valc){
-	int val;
-	std::cout<<"Enter Radius of Circle"<<std::endl;
-	std::cin>>val;
-	vala=PI*(val*val);
-	valc=2*PI*val;
-}
+
 void calculate(int &vala,int &valp,int i){
 	int s1,s2,s3;
 	std::cout<<"Enter the length of 3 sides of the Triangle"<<std::endl;
